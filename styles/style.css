@@ -12,7 +12,6 @@
 
 
 body {
-   margin: 0px;
    background-color: #e5ecce;
    font-family: Inter;
    color: white;
@@ -42,19 +41,6 @@ blockquote {
 
 .W1 {
    box-sizing: border-box;
-}
-
-.T1 {
-   border: 0.1px dashed rgb(231, 189, 150);
-}
-
-.T11 {
-   border: 0.1px dashed rgb(82, 42, 6);
-}
-
-
-.T2 {
-   background-color: rgb(18, 4, 80);
 }
 
 
@@ -238,7 +224,6 @@ a:active {
    width: 360px;
    height: 1368px;
    align-items: start;
-   align-items: center;
    padding: 40px 20px;
 }
 
@@ -328,7 +313,6 @@ a:active {
    width: 360px;
    height: 1368px;
    align-items: start;
-   align-items: center;
    padding: 40px 20px;
 }
 
