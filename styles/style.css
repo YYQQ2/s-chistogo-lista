@@ -12,7 +12,7 @@
 
 
 body {
-   margin: 0;
+   margin: 0px;
    background-color: #e5ecce;
    font-family: Inter;
    color: white;
@@ -325,7 +325,6 @@ a:active {
    display: flex;
    flex-wrap: wrap;
    flex-direction: column;
-   m argin: 0 px au to 38 px;
    width: 360px;
    height: 1368px;
    align-items: start;
@@ -421,7 +420,6 @@ a:active {
    flex-wrap: wrap;
    flex-direction: column;
    align-items: flex-start;
-   pa dding: 20px;
    width: 319px;
    height: 368px;
    /* yellow-bg */
